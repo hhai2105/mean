@@ -1,0 +1,38 @@
+#+title: MEAN Stack Project
+#+author: Hai Nguyen
+
+A single-page application(SPA) project created using the mean stack for the purpose of learning
+
+* Summary
+** Client (what the user see)
+Uses angular
+*** AngularJS
+Presentation/ UI
+SPA
+**** Installation
+npm install -g @angular/cli
+** Server (user indirectly accesses)
+Uses node, express, and mongodb
+*** MongoDB
+Persistent Data Storage
+*** Express, NodeJS
+Business Logic
+Authentication Logic
+** AJAX (Background)
+Doing the requests, responses between client and server
+Data is in JSON format
+
+
+
+* Course Outline
+** Angular Frontend
+** Node.js + express backend
+** Handing Data with MongoDB
+** Enhance the app
+** Image Upload
+** Data Pagination
+** Authentication
+** Authorization
+** Error handling
+** optimizations
+** Deployment
